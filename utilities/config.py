@@ -1,0 +1,1 @@
+BASE_URL = "https://usereff.github.io/english-learning/"
